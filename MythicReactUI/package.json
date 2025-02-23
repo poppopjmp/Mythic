@@ -19,7 +19,7 @@
     "@hello-pangea/dnd": "^17.0.0",
     "@mui/icons-material": "^5.15.20",
     "@mui/lab": "^5.0.0-alpha.138",
-    "@mui/material": "^5.15.20",
+    "@mui/material": "^5.16.14",
     "@mui/x-charts": "^6.19.8",
     "@mui/x-data-grid": "^6.20.1",
     "@mui/x-date-pickers": "^6.20.1",
