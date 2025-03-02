@@ -56,7 +56,7 @@
     "semver": "^7.6.2",
     "styled-components": "^6.1.11",
     "uuid": "^9.0.1",
-    "webpack": "^5.94.0",
+    "webpack": "^5.97.1",
     "word-wrap": "^1.2.5"
   },
   "scripts": {
