@@ -1,4 +1,4 @@
-FROM nginx:1.25-alpine
+FROM nginx:1.26.3-alpine
 COPY ["config/", "/etc/nginx"]
 COPY ["mythic/public/", "/mythic/new"]
 
