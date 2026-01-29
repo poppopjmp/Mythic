@@ -14,7 +14,7 @@ COPY ["src/", "."]
 
 RUN make build_final
 
-FROM alpine
+FROM alpine:3.23.3
 
 COPY --from=builder /mythic_server /mythic_server
 
